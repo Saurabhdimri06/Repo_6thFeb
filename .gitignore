@@ -2,5 +2,5 @@
 *.pdf
 #ignoring dat file#
 *.dat
-*.txt
 !feedback.pdf
+Folder/
