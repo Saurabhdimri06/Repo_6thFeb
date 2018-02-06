@@ -1,0 +1,5 @@
+#ignoring pdf#
+*.pdf
+#ignoring dat file#
+*.dat
+*.txt
